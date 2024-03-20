@@ -5,7 +5,7 @@ Week 1
  * git은 버전 관리 및 다른 개발자과의 협업을 용이하게 하기 위해서 사용한다.
 -------------------------------------------------------------------------
 * git 설치 및 세팅법
-1. "https://git-scm.com/"에서 git 설치
+1. "https://git-scm.com/" 에서 git 설치
 2. git 처음 세팅
  - git config --global user.name "깃허브 이름"
  - git config --global user.email "깃허브 이메일"
@@ -22,6 +22,6 @@ Week 1
  3. git push origin main
 -------------------------------------------------------------------------
 * git/git hub의 흐름
-<img src="C:\Users\swhu\Desktop\vscode\github\2024-1-Beginner-Study\Week1\github_flow.png" width="450px" height="300px" title="github flow" alt="github flow"></img>
-
+![github_flow](./github_flow.png)
+--------------------------------------------------------------------------
 <https://github.com/swoon427/2024-1-Beginner-Study>
