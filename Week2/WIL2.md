@@ -1,19 +1,26 @@
 Week 2
 =============
+
 * Fork
  * Fork란 다른 사용자의 Repository를 자신의 계정으로 복사하여 독립적으로 수정하고 관리할 수 있게 해주는 기능이다.
    이때, Original Repository에 어떤 변화가 생기면 Forked된 Repository에 반영할 수 있다.(fetch, rebase를 통해 가능하다고 한다.)
    반대로 내가 수정한 코드를 Original Repository에 반영하고 싶으면 Pull Request를 Original Repository에 요청하고
    관리자가 승인하면 commit, merge되어 Original Repository에 반영된다.
+
 =============
+
 * Star
  * 관심 있는 Repository나 프로젝트에 star를 달아 “북마크”와 같이 관리
+
 =============
+
 * Issue
  * Repository에서 작업 계획, 토론 및 추적을 위해 활용
  * Github사이트에서 Issue 탭에서 생성가능
  * Title과 Description 추가 필요
+
 ===============
+
 * Branch
  * 기존 브랜치에서 분기되어 생성되는 별도의 작업 공간
  * Merge를 통해 main branch와 병합가능
